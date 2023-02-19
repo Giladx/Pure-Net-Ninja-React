@@ -46,6 +46,13 @@ const Home = (props) => {
             text-transform: uppercase;
             background-color: #000000;
           }
+          @media (max-width: 479px) {
+            .home-text {
+              width: 100%;
+              font-size: 6em;
+              align-self: center;
+            }
+          }
         `}
       </style>
     </>
