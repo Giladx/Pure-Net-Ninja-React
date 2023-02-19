@@ -7,7 +7,13 @@ const Home = (props) => {
       <div className="home-container">
         <Head>
           <title>Pure Net Ninja</title>
+          <meta name="description" content="We Are Net Ninja" />
           <meta property="og:title" content="Pure Net Ninja" />
+          <meta property="og:description" content="We Are Net Ninja" />
+          <meta
+            property="og:image"
+            content="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/cfaa4362-79e4-4b87-bfdc-68cf44db99bc/03b8584b-375b-4886-9640-29b0a9cfe2d1?org_if_sml=1&amp;q=80"
+          />
         </Head>
         <div className="home-full-page">
           <span className="home-text">coming soon</span>
