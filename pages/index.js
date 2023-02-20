@@ -16,7 +16,7 @@ const Home = (props) => {
           />
         </Head>
         <div className="home-full-page">
-          <span className="home-text">coming soon</span>
+          <span className="home-text">coming soon!</span>
         </div>
       </div>
       <style jsx>
